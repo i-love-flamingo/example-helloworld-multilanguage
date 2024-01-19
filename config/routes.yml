@@ -1,0 +1,4 @@
+  # default index page
+  - path: /
+    controller: helloworld.greet
+    name: home

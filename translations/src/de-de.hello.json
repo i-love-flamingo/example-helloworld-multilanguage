@@ -1,0 +1,54 @@
+[
+  {
+    "id": "hello",
+    "translation": "Hallo"
+  },
+  {
+    "id": "textIntroQuestion",
+    "translation": "Mit wem spreche ich hier?"
+  },
+  {
+    "id": "welcomeText",
+    "translation": "Willkommen in "
+  },
+  {
+    "id": "currency-symbol",
+    "translation": "€"
+  },
+  {
+    "id": "country",
+    "translation": "Deutschland"
+  },
+  {
+    "id": "textLocationFact",
+    "translation": "Hier sind einige Fakten über das Land."
+  },
+  {
+    "id": "labelDateFormat",
+    "translation": "Datum Format"
+  },
+  {
+    "id": "labelCurrencyFormat",
+    "translation": "Währung Format"
+  },
+  {
+    "id": "labelNumberFormat",
+    "translation": "Nummer Format"
+  },
+  {
+    "id": "labelLocationLink",
+    "translation": "zum Vereinigten Königreich"
+  },
+  {
+    "id": "labelHomeLink",
+    "translation": "Start"
+  },
+  {
+    "id": "labelAnswerButton",
+    "translation": "Antwort"
+  },
+  {
+    "id": "placeholderName",
+    "translation": "Dein Name"
+  }
+]

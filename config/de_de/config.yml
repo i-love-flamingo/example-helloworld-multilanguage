@@ -1,0 +1,12 @@
+flamingo.router.path: /de
+
+core:
+  locale:
+    locale: de-de
+    translationFiles:
+      - translations/merged/de-de.all.yaml
+    date:
+      dateFormat: 02.01.2006
+      timeFormat: 15:04:05
+      dateTimeFormat: 02.01.2006 15:04:05
+      location: Europe/Berlin

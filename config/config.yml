@@ -1,0 +1,32 @@
+flamingo.router.path: /
+
+flamingo:
+  debug.mode: true
+
+core:
+  locale:
+    locale: en-gb                                    # the locale used for labels
+    fallbackLocales:                                 # a list of (optional) locales that should be used for fallback
+      - en-gb
+    translationFiles:                                # the label file location
+    - translations/merged/en-gb.all.yaml
+    accounting:
+      default:                                       # configure display of prices
+        thousand: ','
+        decimal: '.'
+        formatZero: '%s -.-'
+        format: "%v %s"
+      GBP:                                           # configure display of prices in currency GBP
+        thousand: ','
+        decimal: '.'
+        formatZero: '%s -.-'
+        format: "%v %s"
+    numbers:                                         # configure display of numbers
+      thousand: ','
+      decimal: '.'
+      precision: 2
+    date:
+      dateFormat:  02 Jan 2006
+      timeFormat: 15:04:05
+      dateTimeFormat: 02 Jan 2006 15:04:05
+      location: Europe/London

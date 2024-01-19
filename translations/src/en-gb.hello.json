@@ -1,0 +1,54 @@
+[
+  {
+    "id": "hello",
+    "translation": "Hello"
+  },
+  {
+    "id": "textIntroQuestion",
+    "translation": "Who am I talking to here?"
+  },
+  {
+    "id": "welcomeText",
+    "translation": "Welcome to "
+  },
+  {
+    "id": "currency-symbol",
+    "translation": "£"
+  },
+  {
+    "id": "country",
+    "translation": "United Kingdom"
+  },
+  {
+    "id": "textLocationFact",
+    "translation": "Here are some facts about the country."
+  },
+  {
+    "id": "labelDateFormat",
+    "translation": "Date Format"
+  },
+  {
+    "id": "labelCurrencyFormat",
+    "translation": "Currency Format"
+  },
+  {
+    "id": "labelNumberFormat",
+    "translation": "Number Format"
+  },
+  {
+    "id": "labelLocationLink",
+    "translation": "to Germany"
+  },
+  {
+    "id": "labelHomeLink",
+    "translation": "Home"
+  },
+  {
+    "id": "labelAnswerButton",
+    "translation": "Answer"
+  },
+  {
+    "id": "placeholderName",
+    "translation": "Enter name"
+  }
+]

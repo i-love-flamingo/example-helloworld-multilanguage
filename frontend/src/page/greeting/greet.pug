@@ -1,0 +1,9 @@
+doctype html
+html
+  body
+    h1 #{ __('hello') }
+    h3 #{ __('textIntroQuestion') }
+
+    form(method='GET' action=url('helloworld.greetperson'))
+      input(type='text' name='name' placeholder=__('placeholderName'))
+      button(type='submit') #{__('labelAnswerButton')}
